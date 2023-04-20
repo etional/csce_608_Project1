@@ -1,0 +1,1001 @@
+ID,Name,Price,Quantity,Category,Supplier_ID
+0,product_name_0,17.53,1,Automotive,supplier_0@gmail.com
+1,product_name_1,97.26,3,Pet Supplies,supplier_0@gmail.com
+2,product_name_2,38.75,5,Fashion,supplier_1@gmail.com
+3,product_name_3,38.91,9,Fashion,supplier_1@gmail.com
+4,product_name_4,78.19,4,"Food, Grocery",supplier_2@gmail.com
+5,product_name_5,15.44,3,Outdoors,supplier_2@gmail.com
+6,product_name_6,30.03,4,"Food, Grocery",supplier_3@gmail.com
+7,product_name_7,32.81,3,Pet Supplies,supplier_3@gmail.com
+8,product_name_8,94.72,1,Entertainments,supplier_4@gmail.com
+9,product_name_9,80.25,2,"Home, Garden",supplier_4@gmail.com
+10,product_name_10,31.68,3,Smart Home,supplier_5@gmail.com
+11,product_name_11,80.26,5,Books,supplier_5@gmail.com
+12,product_name_12,14.31,6,Pet Supplies,supplier_6@gmail.com
+13,product_name_13,26.38,9,Computers,supplier_6@gmail.com
+14,product_name_14,43.33,1,Entertainments,supplier_7@gmail.com
+15,product_name_15,49.17,8,"Home, Garden",supplier_7@gmail.com
+16,product_name_16,35.19,4,Smart Home,supplier_8@gmail.com
+17,product_name_17,50.17,8,"Home, Garden",supplier_8@gmail.com
+18,product_name_18,19.29,1,Outdoors,supplier_9@gmail.com
+19,product_name_19,18.43,4,"Food, Grocery",supplier_9@gmail.com
+20,product_name_20,68.73,8,Books,supplier_10@gmail.com
+21,product_name_21,11.39,3,Automotive,supplier_10@gmail.com
+22,product_name_22,75.11,5,Sports,supplier_11@gmail.com
+23,product_name_23,55.96,2,"Beauty, Health",supplier_11@gmail.com
+24,product_name_24,71.89,5,Books,supplier_12@gmail.com
+25,product_name_25,36.77,5,Books,supplier_12@gmail.com
+26,product_name_26,21.9,8,Computers,supplier_13@gmail.com
+27,product_name_27,34.97,9,Books,supplier_13@gmail.com
+28,product_name_28,28.39,3,Outdoors,supplier_14@gmail.com
+29,product_name_29,56.17,1,Entertainments,supplier_14@gmail.com
+30,product_name_30,43.25,8,Automotive,supplier_15@gmail.com
+31,product_name_31,91.05,9,Sports,supplier_15@gmail.com
+32,product_name_32,88.37,8,"Home, Garden",supplier_16@gmail.com
+33,product_name_33,21.46,7,Fashion,supplier_16@gmail.com
+34,product_name_34,31.53,8,Smart Home,supplier_17@gmail.com
+35,product_name_35,46.36,4,"Beauty, Health",supplier_17@gmail.com
+36,product_name_36,17.66,9,"Beauty, Health",supplier_18@gmail.com
+37,product_name_37,41.72,8,"Beauty, Health",supplier_18@gmail.com
+38,product_name_38,57.95,6,"Beauty, Health",supplier_19@gmail.com
+39,product_name_39,11.28,5,Smart Home,supplier_19@gmail.com
+40,product_name_40,42.98,5,Computers,supplier_20@gmail.com
+41,product_name_41,82.82,7,Pet Supplies,supplier_20@gmail.com
+42,product_name_42,39.76,6,"Food, Grocery",supplier_21@gmail.com
+43,product_name_43,18.9,7,"Home, Garden",supplier_21@gmail.com
+44,product_name_44,16.12,4,"Toy, Kids",supplier_22@gmail.com
+45,product_name_45,52.2,3,Books,supplier_22@gmail.com
+46,product_name_46,63.0,4,Outdoors,supplier_23@gmail.com
+47,product_name_47,58.45,6,Pet Supplies,supplier_23@gmail.com
+48,product_name_48,12.86,3,Computers,supplier_24@gmail.com
+49,product_name_49,92.45,3,Smart Home,supplier_24@gmail.com
+50,product_name_50,52.74,5,Smart Home,supplier_25@gmail.com
+51,product_name_51,66.58,1,"Home, Garden",supplier_25@gmail.com
+52,product_name_52,85.98,3,Electronics,supplier_26@gmail.com
+53,product_name_53,89.54,3,"Home, Garden",supplier_26@gmail.com
+54,product_name_54,88.43,6,"Beauty, Health",supplier_27@gmail.com
+55,product_name_55,30.0,1,"Beauty, Health",supplier_27@gmail.com
+56,product_name_56,13.8,4,"Home, Garden",supplier_28@gmail.com
+57,product_name_57,91.98,1,"Toy, Kids",supplier_28@gmail.com
+58,product_name_58,61.75,2,"Beauty, Health",supplier_29@gmail.com
+59,product_name_59,85.78,1,"Food, Grocery",supplier_29@gmail.com
+60,product_name_60,52.37,7,Sports,supplier_30@gmail.com
+61,product_name_61,57.68,5,"Toy, Kids",supplier_30@gmail.com
+62,product_name_62,89.34,6,Fashion,supplier_31@gmail.com
+63,product_name_63,38.21,8,Automotive,supplier_31@gmail.com
+64,product_name_64,37.32,6,Computers,supplier_32@gmail.com
+65,product_name_65,14.3,1,Books,supplier_32@gmail.com
+66,product_name_66,99.1,9,Entertainments,supplier_33@gmail.com
+67,product_name_67,14.41,4,Outdoors,supplier_33@gmail.com
+68,product_name_68,57.94,8,"Toy, Kids",supplier_34@gmail.com
+69,product_name_69,34.38,4,"Beauty, Health",supplier_34@gmail.com
+70,product_name_70,74.63,6,"Food, Grocery",supplier_35@gmail.com
+71,product_name_71,50.87,2,"Beauty, Health",supplier_35@gmail.com
+72,product_name_72,76.17,1,Electronics,supplier_36@gmail.com
+73,product_name_73,45.98,8,"Beauty, Health",supplier_36@gmail.com
+74,product_name_74,84.11,7,Fashion,supplier_37@gmail.com
+75,product_name_75,35.49,9,Fashion,supplier_37@gmail.com
+76,product_name_76,99.87,6,"Toy, Kids",supplier_38@gmail.com
+77,product_name_77,52.14,1,Automotive,supplier_38@gmail.com
+78,product_name_78,36.84,9,Entertainments,supplier_39@gmail.com
+79,product_name_79,27.55,3,"Toy, Kids",supplier_39@gmail.com
+80,product_name_80,74.69,3,Outdoors,supplier_40@gmail.com
+81,product_name_81,57.28,7,Outdoors,supplier_40@gmail.com
+82,product_name_82,65.15,4,Electronics,supplier_41@gmail.com
+83,product_name_83,22.22,3,Computers,supplier_41@gmail.com
+84,product_name_84,80.47,9,Entertainments,supplier_42@gmail.com
+85,product_name_85,72.73,2,Computers,supplier_42@gmail.com
+86,product_name_86,63.61,5,"Food, Grocery",supplier_43@gmail.com
+87,product_name_87,68.68,8,Outdoors,supplier_43@gmail.com
+88,product_name_88,17.55,4,Smart Home,supplier_44@gmail.com
+89,product_name_89,25.54,5,Pet Supplies,supplier_44@gmail.com
+90,product_name_90,30.87,9,Entertainments,supplier_45@gmail.com
+91,product_name_91,77.3,1,Electronics,supplier_45@gmail.com
+92,product_name_92,28.71,4,Automotive,supplier_46@gmail.com
+93,product_name_93,96.16,7,Entertainments,supplier_46@gmail.com
+94,product_name_94,94.16,3,Fashion,supplier_47@gmail.com
+95,product_name_95,29.77,9,Electronics,supplier_47@gmail.com
+96,product_name_96,32.58,6,Outdoors,supplier_48@gmail.com
+97,product_name_97,80.72,7,Fashion,supplier_48@gmail.com
+98,product_name_98,42.54,6,Electronics,supplier_49@gmail.com
+99,product_name_99,74.75,8,"Food, Grocery",supplier_49@gmail.com
+100,product_name_100,89.67,9,Fashion,supplier_50@gmail.com
+101,product_name_101,31.09,3,"Beauty, Health",supplier_50@gmail.com
+102,product_name_102,37.5,9,"Toy, Kids",supplier_51@gmail.com
+103,product_name_103,81.27,4,Automotive,supplier_51@gmail.com
+104,product_name_104,97.07,9,Books,supplier_52@gmail.com
+105,product_name_105,50.73,1,"Toy, Kids",supplier_52@gmail.com
+106,product_name_106,25.42,7,Automotive,supplier_53@gmail.com
+107,product_name_107,64.59,1,Outdoors,supplier_53@gmail.com
+108,product_name_108,96.45,3,Outdoors,supplier_54@gmail.com
+109,product_name_109,23.56,9,Automotive,supplier_54@gmail.com
+110,product_name_110,36.7,5,"Food, Grocery",supplier_55@gmail.com
+111,product_name_111,70.74,2,Computers,supplier_55@gmail.com
+112,product_name_112,34.58,4,Electronics,supplier_56@gmail.com
+113,product_name_113,86.75,6,Books,supplier_56@gmail.com
+114,product_name_114,97.76,1,Automotive,supplier_57@gmail.com
+115,product_name_115,57.02,6,Computers,supplier_57@gmail.com
+116,product_name_116,49.81,3,Pet Supplies,supplier_58@gmail.com
+117,product_name_117,78.22,8,Sports,supplier_58@gmail.com
+118,product_name_118,79.12,3,Pet Supplies,supplier_59@gmail.com
+119,product_name_119,30.58,3,Books,supplier_59@gmail.com
+120,product_name_120,79.35,1,Automotive,supplier_60@gmail.com
+121,product_name_121,69.56,1,Automotive,supplier_60@gmail.com
+122,product_name_122,49.04,2,Outdoors,supplier_61@gmail.com
+123,product_name_123,19.32,3,"Beauty, Health",supplier_61@gmail.com
+124,product_name_124,68.38,3,Outdoors,supplier_62@gmail.com
+125,product_name_125,74.7,4,Outdoors,supplier_62@gmail.com
+126,product_name_126,70.68,3,Smart Home,supplier_63@gmail.com
+127,product_name_127,12.3,2,Fashion,supplier_63@gmail.com
+128,product_name_128,37.23,6,"Home, Garden",supplier_64@gmail.com
+129,product_name_129,73.91,5,"Toy, Kids",supplier_64@gmail.com
+130,product_name_130,52.16,7,Electronics,supplier_65@gmail.com
+131,product_name_131,35.03,6,Fashion,supplier_65@gmail.com
+132,product_name_132,34.08,1,"Toy, Kids",supplier_66@gmail.com
+133,product_name_133,57.29,3,Pet Supplies,supplier_66@gmail.com
+134,product_name_134,57.29,3,"Beauty, Health",supplier_67@gmail.com
+135,product_name_135,80.42,9,"Toy, Kids",supplier_67@gmail.com
+136,product_name_136,26.41,4,Pet Supplies,supplier_68@gmail.com
+137,product_name_137,36.19,5,Pet Supplies,supplier_68@gmail.com
+138,product_name_138,16.24,8,"Toy, Kids",supplier_69@gmail.com
+139,product_name_139,38.45,7,"Toy, Kids",supplier_69@gmail.com
+140,product_name_140,48.11,9,Computers,supplier_70@gmail.com
+141,product_name_141,32.02,2,Smart Home,supplier_70@gmail.com
+142,product_name_142,87.5,4,Sports,supplier_71@gmail.com
+143,product_name_143,19.46,1,"Food, Grocery",supplier_71@gmail.com
+144,product_name_144,16.73,7,Automotive,supplier_72@gmail.com
+145,product_name_145,60.86,6,"Food, Grocery",supplier_72@gmail.com
+146,product_name_146,78.65,1,Smart Home,supplier_73@gmail.com
+147,product_name_147,11.35,2,Automotive,supplier_73@gmail.com
+148,product_name_148,27.43,8,"Toy, Kids",supplier_74@gmail.com
+149,product_name_149,70.9,1,Books,supplier_74@gmail.com
+150,product_name_150,21.8,3,"Food, Grocery",supplier_75@gmail.com
+151,product_name_151,67.27,8,"Beauty, Health",supplier_75@gmail.com
+152,product_name_152,17.62,2,"Beauty, Health",supplier_76@gmail.com
+153,product_name_153,72.78,1,Pet Supplies,supplier_76@gmail.com
+154,product_name_154,75.56,1,"Home, Garden",supplier_77@gmail.com
+155,product_name_155,31.91,6,Sports,supplier_77@gmail.com
+156,product_name_156,67.84,8,Sports,supplier_78@gmail.com
+157,product_name_157,73.8,6,Fashion,supplier_78@gmail.com
+158,product_name_158,71.54,6,"Food, Grocery",supplier_79@gmail.com
+159,product_name_159,12.9,1,Fashion,supplier_79@gmail.com
+160,product_name_160,31.15,6,Fashion,supplier_80@gmail.com
+161,product_name_161,59.29,4,"Home, Garden",supplier_80@gmail.com
+162,product_name_162,20.42,4,Computers,supplier_81@gmail.com
+163,product_name_163,64.06,4,Entertainments,supplier_81@gmail.com
+164,product_name_164,34.83,8,Electronics,supplier_82@gmail.com
+165,product_name_165,11.41,8,"Food, Grocery",supplier_82@gmail.com
+166,product_name_166,47.2,9,Fashion,supplier_83@gmail.com
+167,product_name_167,77.57,4,Books,supplier_83@gmail.com
+168,product_name_168,43.78,7,Fashion,supplier_84@gmail.com
+169,product_name_169,78.54,1,Sports,supplier_84@gmail.com
+170,product_name_170,58.07,8,Fashion,supplier_85@gmail.com
+171,product_name_171,64.78,7,Books,supplier_85@gmail.com
+172,product_name_172,52.89,4,Books,supplier_86@gmail.com
+173,product_name_173,87.91,7,Outdoors,supplier_86@gmail.com
+174,product_name_174,37.0,3,Fashion,supplier_87@gmail.com
+175,product_name_175,15.63,5,Outdoors,supplier_87@gmail.com
+176,product_name_176,40.22,3,Sports,supplier_88@gmail.com
+177,product_name_177,69.14,8,Automotive,supplier_88@gmail.com
+178,product_name_178,84.67,4,Electronics,supplier_89@gmail.com
+179,product_name_179,81.03,5,"Food, Grocery",supplier_89@gmail.com
+180,product_name_180,41.21,5,"Home, Garden",supplier_90@gmail.com
+181,product_name_181,11.61,9,Pet Supplies,supplier_90@gmail.com
+182,product_name_182,19.34,1,Outdoors,supplier_91@gmail.com
+183,product_name_183,51.9,7,Fashion,supplier_91@gmail.com
+184,product_name_184,10.86,6,Pet Supplies,supplier_92@gmail.com
+185,product_name_185,75.43,5,"Food, Grocery",supplier_92@gmail.com
+186,product_name_186,33.05,4,Computers,supplier_93@gmail.com
+187,product_name_187,36.23,6,"Home, Garden",supplier_93@gmail.com
+188,product_name_188,41.86,8,Smart Home,supplier_94@gmail.com
+189,product_name_189,18.8,6,"Toy, Kids",supplier_94@gmail.com
+190,product_name_190,50.14,2,Books,supplier_95@gmail.com
+191,product_name_191,81.04,3,Fashion,supplier_95@gmail.com
+192,product_name_192,32.58,4,Smart Home,supplier_96@gmail.com
+193,product_name_193,13.16,5,Electronics,supplier_96@gmail.com
+194,product_name_194,95.4,6,Entertainments,supplier_97@gmail.com
+195,product_name_195,93.33,9,"Toy, Kids",supplier_97@gmail.com
+196,product_name_196,28.72,6,Outdoors,supplier_98@gmail.com
+197,product_name_197,37.33,9,Computers,supplier_98@gmail.com
+198,product_name_198,47.24,7,Outdoors,supplier_99@gmail.com
+199,product_name_199,60.86,4,Books,supplier_99@gmail.com
+200,product_name_200,61.94,5,"Beauty, Health",supplier_100@gmail.com
+201,product_name_201,65.89,6,"Beauty, Health",supplier_100@gmail.com
+202,product_name_202,93.6,2,Books,supplier_101@gmail.com
+203,product_name_203,97.12,4,Outdoors,supplier_101@gmail.com
+204,product_name_204,79.07,6,"Food, Grocery",supplier_102@gmail.com
+205,product_name_205,48.61,8,"Toy, Kids",supplier_102@gmail.com
+206,product_name_206,17.31,3,Sports,supplier_103@gmail.com
+207,product_name_207,89.88,6,"Beauty, Health",supplier_103@gmail.com
+208,product_name_208,33.68,5,Books,supplier_104@gmail.com
+209,product_name_209,54.52,3,Entertainments,supplier_104@gmail.com
+210,product_name_210,94.78,7,Computers,supplier_105@gmail.com
+211,product_name_211,56.89,8,Computers,supplier_105@gmail.com
+212,product_name_212,64.62,3,Pet Supplies,supplier_106@gmail.com
+213,product_name_213,87.61,4,Books,supplier_106@gmail.com
+214,product_name_214,72.91,9,"Food, Grocery",supplier_107@gmail.com
+215,product_name_215,17.3,8,"Home, Garden",supplier_107@gmail.com
+216,product_name_216,47.77,6,Entertainments,supplier_108@gmail.com
+217,product_name_217,22.88,9,"Home, Garden",supplier_108@gmail.com
+218,product_name_218,61.31,2,Sports,supplier_109@gmail.com
+219,product_name_219,86.58,8,Electronics,supplier_109@gmail.com
+220,product_name_220,52.9,9,Electronics,supplier_110@gmail.com
+221,product_name_221,68.4,6,Smart Home,supplier_110@gmail.com
+222,product_name_222,26.62,2,Sports,supplier_111@gmail.com
+223,product_name_223,39.11,1,Electronics,supplier_111@gmail.com
+224,product_name_224,34.56,9,Fashion,supplier_112@gmail.com
+225,product_name_225,70.5,6,Pet Supplies,supplier_112@gmail.com
+226,product_name_226,27.23,8,Outdoors,supplier_113@gmail.com
+227,product_name_227,62.15,4,Pet Supplies,supplier_113@gmail.com
+228,product_name_228,98.25,2,Electronics,supplier_114@gmail.com
+229,product_name_229,88.64,6,"Beauty, Health",supplier_114@gmail.com
+230,product_name_230,92.8,3,Sports,supplier_115@gmail.com
+231,product_name_231,63.28,4,Automotive,supplier_115@gmail.com
+232,product_name_232,41.21,7,Entertainments,supplier_116@gmail.com
+233,product_name_233,84.9,1,"Toy, Kids",supplier_116@gmail.com
+234,product_name_234,21.05,2,Entertainments,supplier_117@gmail.com
+235,product_name_235,16.65,9,Electronics,supplier_117@gmail.com
+236,product_name_236,10.81,3,Books,supplier_118@gmail.com
+237,product_name_237,83.83,7,Fashion,supplier_118@gmail.com
+238,product_name_238,29.7,8,Books,supplier_119@gmail.com
+239,product_name_239,23.83,6,Pet Supplies,supplier_119@gmail.com
+240,product_name_240,74.56,5,"Food, Grocery",supplier_120@gmail.com
+241,product_name_241,30.99,1,Books,supplier_120@gmail.com
+242,product_name_242,99.48,2,Fashion,supplier_121@gmail.com
+243,product_name_243,81.62,9,Automotive,supplier_121@gmail.com
+244,product_name_244,40.28,8,Books,supplier_122@gmail.com
+245,product_name_245,81.59,3,"Beauty, Health",supplier_122@gmail.com
+246,product_name_246,81.45,9,Smart Home,supplier_123@gmail.com
+247,product_name_247,73.52,3,Entertainments,supplier_123@gmail.com
+248,product_name_248,65.6,1,"Home, Garden",supplier_124@gmail.com
+249,product_name_249,64.07,7,"Food, Grocery",supplier_124@gmail.com
+250,product_name_250,70.99,4,Outdoors,supplier_125@gmail.com
+251,product_name_251,61.27,2,Fashion,supplier_125@gmail.com
+252,product_name_252,18.64,8,Computers,supplier_126@gmail.com
+253,product_name_253,77.62,9,Smart Home,supplier_126@gmail.com
+254,product_name_254,59.17,5,Outdoors,supplier_127@gmail.com
+255,product_name_255,13.76,1,Automotive,supplier_127@gmail.com
+256,product_name_256,83.29,8,Entertainments,supplier_128@gmail.com
+257,product_name_257,56.19,7,Electronics,supplier_128@gmail.com
+258,product_name_258,52.69,1,Outdoors,supplier_129@gmail.com
+259,product_name_259,49.61,3,Computers,supplier_129@gmail.com
+260,product_name_260,67.5,6,Sports,supplier_130@gmail.com
+261,product_name_261,71.25,7,Fashion,supplier_130@gmail.com
+262,product_name_262,95.09,4,Books,supplier_131@gmail.com
+263,product_name_263,98.98,6,"Beauty, Health",supplier_131@gmail.com
+264,product_name_264,66.33,4,Smart Home,supplier_132@gmail.com
+265,product_name_265,57.25,7,"Toy, Kids",supplier_132@gmail.com
+266,product_name_266,27.84,3,Entertainments,supplier_133@gmail.com
+267,product_name_267,27.83,3,Pet Supplies,supplier_133@gmail.com
+268,product_name_268,47.2,3,Computers,supplier_134@gmail.com
+269,product_name_269,92.72,8,Sports,supplier_134@gmail.com
+270,product_name_270,32.49,5,Entertainments,supplier_135@gmail.com
+271,product_name_271,40.3,9,Sports,supplier_135@gmail.com
+272,product_name_272,63.13,7,"Toy, Kids",supplier_136@gmail.com
+273,product_name_273,39.5,1,Smart Home,supplier_136@gmail.com
+274,product_name_274,96.39,9,Books,supplier_137@gmail.com
+275,product_name_275,67.31,7,Electronics,supplier_137@gmail.com
+276,product_name_276,70.19,1,Smart Home,supplier_138@gmail.com
+277,product_name_277,41.87,4,Fashion,supplier_138@gmail.com
+278,product_name_278,44.82,2,Pet Supplies,supplier_139@gmail.com
+279,product_name_279,86.31,4,"Home, Garden",supplier_139@gmail.com
+280,product_name_280,27.76,5,Automotive,supplier_140@gmail.com
+281,product_name_281,42.53,1,Pet Supplies,supplier_140@gmail.com
+282,product_name_282,15.48,3,"Home, Garden",supplier_141@gmail.com
+283,product_name_283,88.68,8,Pet Supplies,supplier_141@gmail.com
+284,product_name_284,64.17,2,Books,supplier_142@gmail.com
+285,product_name_285,16.16,2,Entertainments,supplier_142@gmail.com
+286,product_name_286,89.85,9,"Toy, Kids",supplier_143@gmail.com
+287,product_name_287,49.58,8,Outdoors,supplier_143@gmail.com
+288,product_name_288,41.57,7,Electronics,supplier_144@gmail.com
+289,product_name_289,92.33,1,"Beauty, Health",supplier_144@gmail.com
+290,product_name_290,74.39,3,"Beauty, Health",supplier_145@gmail.com
+291,product_name_291,54.68,2,Computers,supplier_145@gmail.com
+292,product_name_292,77.37,3,"Toy, Kids",supplier_146@gmail.com
+293,product_name_293,39.16,9,Smart Home,supplier_146@gmail.com
+294,product_name_294,30.46,5,"Home, Garden",supplier_147@gmail.com
+295,product_name_295,86.98,1,"Toy, Kids",supplier_147@gmail.com
+296,product_name_296,74.65,9,Outdoors,supplier_148@gmail.com
+297,product_name_297,60.27,8,Computers,supplier_148@gmail.com
+298,product_name_298,50.37,6,Pet Supplies,supplier_149@gmail.com
+299,product_name_299,85.15,1,"Food, Grocery",supplier_149@gmail.com
+300,product_name_300,91.05,5,Entertainments,supplier_150@gmail.com
+301,product_name_301,99.74,3,"Toy, Kids",supplier_150@gmail.com
+302,product_name_302,46.48,7,Fashion,supplier_151@gmail.com
+303,product_name_303,66.6,9,Entertainments,supplier_151@gmail.com
+304,product_name_304,29.26,5,Fashion,supplier_152@gmail.com
+305,product_name_305,47.6,9,Fashion,supplier_152@gmail.com
+306,product_name_306,93.83,4,"Beauty, Health",supplier_153@gmail.com
+307,product_name_307,24.46,9,"Toy, Kids",supplier_153@gmail.com
+308,product_name_308,93.41,3,Computers,supplier_154@gmail.com
+309,product_name_309,79.71,6,Books,supplier_154@gmail.com
+310,product_name_310,34.97,7,"Food, Grocery",supplier_155@gmail.com
+311,product_name_311,86.32,4,Sports,supplier_155@gmail.com
+312,product_name_312,44.75,9,Electronics,supplier_156@gmail.com
+313,product_name_313,27.2,9,Outdoors,supplier_156@gmail.com
+314,product_name_314,76.32,3,Sports,supplier_157@gmail.com
+315,product_name_315,17.79,5,Sports,supplier_157@gmail.com
+316,product_name_316,69.8,5,Electronics,supplier_158@gmail.com
+317,product_name_317,21.95,6,Entertainments,supplier_158@gmail.com
+318,product_name_318,19.17,6,Sports,supplier_159@gmail.com
+319,product_name_319,71.9,8,Sports,supplier_159@gmail.com
+320,product_name_320,80.3,1,Computers,supplier_160@gmail.com
+321,product_name_321,21.85,8,Sports,supplier_160@gmail.com
+322,product_name_322,12.34,5,Pet Supplies,supplier_161@gmail.com
+323,product_name_323,65.03,3,Smart Home,supplier_161@gmail.com
+324,product_name_324,59.1,8,Entertainments,supplier_162@gmail.com
+325,product_name_325,59.89,9,Automotive,supplier_162@gmail.com
+326,product_name_326,41.49,6,Entertainments,supplier_163@gmail.com
+327,product_name_327,29.04,6,"Home, Garden",supplier_163@gmail.com
+328,product_name_328,57.07,9,"Home, Garden",supplier_164@gmail.com
+329,product_name_329,94.51,3,Sports,supplier_164@gmail.com
+330,product_name_330,78.59,5,Automotive,supplier_165@gmail.com
+331,product_name_331,55.59,4,Books,supplier_165@gmail.com
+332,product_name_332,53.98,9,Pet Supplies,supplier_166@gmail.com
+333,product_name_333,70.09,3,Entertainments,supplier_166@gmail.com
+334,product_name_334,39.84,2,Smart Home,supplier_167@gmail.com
+335,product_name_335,15.94,8,Fashion,supplier_167@gmail.com
+336,product_name_336,36.77,2,Automotive,supplier_168@gmail.com
+337,product_name_337,78.45,3,Computers,supplier_168@gmail.com
+338,product_name_338,70.47,2,"Home, Garden",supplier_169@gmail.com
+339,product_name_339,11.48,6,Entertainments,supplier_169@gmail.com
+340,product_name_340,62.76,6,Fashion,supplier_170@gmail.com
+341,product_name_341,83.33,1,"Home, Garden",supplier_170@gmail.com
+342,product_name_342,37.73,3,Outdoors,supplier_171@gmail.com
+343,product_name_343,57.16,1,Smart Home,supplier_171@gmail.com
+344,product_name_344,14.7,3,Pet Supplies,supplier_172@gmail.com
+345,product_name_345,93.65,9,Entertainments,supplier_172@gmail.com
+346,product_name_346,79.25,5,Sports,supplier_173@gmail.com
+347,product_name_347,82.3,8,Fashion,supplier_173@gmail.com
+348,product_name_348,92.03,4,Smart Home,supplier_174@gmail.com
+349,product_name_349,90.52,2,Computers,supplier_174@gmail.com
+350,product_name_350,96.31,3,Fashion,supplier_175@gmail.com
+351,product_name_351,84.92,1,Smart Home,supplier_175@gmail.com
+352,product_name_352,66.35,2,Pet Supplies,supplier_176@gmail.com
+353,product_name_353,80.07,2,Pet Supplies,supplier_176@gmail.com
+354,product_name_354,21.48,4,Automotive,supplier_177@gmail.com
+355,product_name_355,84.13,7,Computers,supplier_177@gmail.com
+356,product_name_356,49.84,3,Electronics,supplier_178@gmail.com
+357,product_name_357,91.63,5,Electronics,supplier_178@gmail.com
+358,product_name_358,11.56,3,"Toy, Kids",supplier_179@gmail.com
+359,product_name_359,55.33,6,Smart Home,supplier_179@gmail.com
+360,product_name_360,75.37,5,Smart Home,supplier_180@gmail.com
+361,product_name_361,45.78,3,"Beauty, Health",supplier_180@gmail.com
+362,product_name_362,12.46,2,"Home, Garden",supplier_181@gmail.com
+363,product_name_363,73.85,7,Automotive,supplier_181@gmail.com
+364,product_name_364,55.55,5,Books,supplier_182@gmail.com
+365,product_name_365,38.69,5,Fashion,supplier_182@gmail.com
+366,product_name_366,90.93,9,Entertainments,supplier_183@gmail.com
+367,product_name_367,83.71,4,Outdoors,supplier_183@gmail.com
+368,product_name_368,84.03,4,"Beauty, Health",supplier_184@gmail.com
+369,product_name_369,69.6,1,Fashion,supplier_184@gmail.com
+370,product_name_370,60.52,3,Pet Supplies,supplier_185@gmail.com
+371,product_name_371,61.33,9,"Home, Garden",supplier_185@gmail.com
+372,product_name_372,27.28,1,Pet Supplies,supplier_186@gmail.com
+373,product_name_373,64.0,3,Computers,supplier_186@gmail.com
+374,product_name_374,88.41,9,"Beauty, Health",supplier_187@gmail.com
+375,product_name_375,54.96,3,Outdoors,supplier_187@gmail.com
+376,product_name_376,54.55,2,"Toy, Kids",supplier_188@gmail.com
+377,product_name_377,44.06,8,Computers,supplier_188@gmail.com
+378,product_name_378,40.6,4,"Beauty, Health",supplier_189@gmail.com
+379,product_name_379,53.86,8,Fashion,supplier_189@gmail.com
+380,product_name_380,90.21,6,Books,supplier_190@gmail.com
+381,product_name_381,57.26,8,Computers,supplier_190@gmail.com
+382,product_name_382,59.65,5,Electronics,supplier_191@gmail.com
+383,product_name_383,74.73,2,Computers,supplier_191@gmail.com
+384,product_name_384,94.96,6,Pet Supplies,supplier_192@gmail.com
+385,product_name_385,91.26,3,Electronics,supplier_192@gmail.com
+386,product_name_386,23.06,1,Fashion,supplier_193@gmail.com
+387,product_name_387,24.26,1,"Food, Grocery",supplier_193@gmail.com
+388,product_name_388,53.4,2,"Food, Grocery",supplier_194@gmail.com
+389,product_name_389,41.04,7,"Food, Grocery",supplier_194@gmail.com
+390,product_name_390,63.27,6,Pet Supplies,supplier_195@gmail.com
+391,product_name_391,91.69,4,"Toy, Kids",supplier_195@gmail.com
+392,product_name_392,64.64,1,Outdoors,supplier_196@gmail.com
+393,product_name_393,46.95,3,Entertainments,supplier_196@gmail.com
+394,product_name_394,60.11,7,"Toy, Kids",supplier_197@gmail.com
+395,product_name_395,56.68,7,Outdoors,supplier_197@gmail.com
+396,product_name_396,29.14,6,Smart Home,supplier_198@gmail.com
+397,product_name_397,58.17,2,"Home, Garden",supplier_198@gmail.com
+398,product_name_398,13.71,9,Pet Supplies,supplier_199@gmail.com
+399,product_name_399,27.09,2,Smart Home,supplier_199@gmail.com
+400,product_name_400,61.56,4,"Beauty, Health",supplier_200@gmail.com
+401,product_name_401,36.08,5,"Beauty, Health",supplier_200@gmail.com
+402,product_name_402,47.91,6,"Home, Garden",supplier_201@gmail.com
+403,product_name_403,98.66,9,"Beauty, Health",supplier_201@gmail.com
+404,product_name_404,54.1,8,Electronics,supplier_202@gmail.com
+405,product_name_405,63.71,2,Entertainments,supplier_202@gmail.com
+406,product_name_406,58.47,3,Books,supplier_203@gmail.com
+407,product_name_407,76.9,5,"Toy, Kids",supplier_203@gmail.com
+408,product_name_408,37.76,8,Pet Supplies,supplier_204@gmail.com
+409,product_name_409,19.25,1,Books,supplier_204@gmail.com
+410,product_name_410,58.37,9,Entertainments,supplier_205@gmail.com
+411,product_name_411,16.15,9,Sports,supplier_205@gmail.com
+412,product_name_412,85.82,9,"Food, Grocery",supplier_206@gmail.com
+413,product_name_413,46.26,6,Computers,supplier_206@gmail.com
+414,product_name_414,59.3,4,Computers,supplier_207@gmail.com
+415,product_name_415,35.72,6,Sports,supplier_207@gmail.com
+416,product_name_416,96.46,8,"Food, Grocery",supplier_208@gmail.com
+417,product_name_417,15.86,2,Computers,supplier_208@gmail.com
+418,product_name_418,32.07,5,Automotive,supplier_209@gmail.com
+419,product_name_419,67.69,7,Pet Supplies,supplier_209@gmail.com
+420,product_name_420,72.46,8,Smart Home,supplier_210@gmail.com
+421,product_name_421,70.83,1,Pet Supplies,supplier_210@gmail.com
+422,product_name_422,49.74,7,"Toy, Kids",supplier_211@gmail.com
+423,product_name_423,89.04,4,Sports,supplier_211@gmail.com
+424,product_name_424,47.2,7,Pet Supplies,supplier_212@gmail.com
+425,product_name_425,59.86,9,"Food, Grocery",supplier_212@gmail.com
+426,product_name_426,84.65,5,Fashion,supplier_213@gmail.com
+427,product_name_427,98.22,2,Computers,supplier_213@gmail.com
+428,product_name_428,68.76,9,Sports,supplier_214@gmail.com
+429,product_name_429,14.77,2,Outdoors,supplier_214@gmail.com
+430,product_name_430,63.94,2,Sports,supplier_215@gmail.com
+431,product_name_431,99.51,7,Entertainments,supplier_215@gmail.com
+432,product_name_432,55.03,2,"Food, Grocery",supplier_216@gmail.com
+433,product_name_433,95.54,8,Smart Home,supplier_216@gmail.com
+434,product_name_434,30.48,8,Pet Supplies,supplier_217@gmail.com
+435,product_name_435,85.03,8,Smart Home,supplier_217@gmail.com
+436,product_name_436,74.86,4,Sports,supplier_218@gmail.com
+437,product_name_437,22.76,4,"Beauty, Health",supplier_218@gmail.com
+438,product_name_438,30.84,4,Automotive,supplier_219@gmail.com
+439,product_name_439,22.51,3,Books,supplier_219@gmail.com
+440,product_name_440,35.12,2,"Toy, Kids",supplier_220@gmail.com
+441,product_name_441,19.04,5,Sports,supplier_220@gmail.com
+442,product_name_442,71.66,3,Fashion,supplier_221@gmail.com
+443,product_name_443,47.11,4,Electronics,supplier_221@gmail.com
+444,product_name_444,12.09,2,Fashion,supplier_222@gmail.com
+445,product_name_445,34.59,3,Computers,supplier_222@gmail.com
+446,product_name_446,66.12,4,"Toy, Kids",supplier_223@gmail.com
+447,product_name_447,11.13,1,Automotive,supplier_223@gmail.com
+448,product_name_448,11.28,3,Pet Supplies,supplier_224@gmail.com
+449,product_name_449,41.03,5,"Toy, Kids",supplier_224@gmail.com
+450,product_name_450,44.82,5,Outdoors,supplier_225@gmail.com
+451,product_name_451,73.96,8,Electronics,supplier_225@gmail.com
+452,product_name_452,85.04,7,Fashion,supplier_226@gmail.com
+453,product_name_453,19.3,7,Electronics,supplier_226@gmail.com
+454,product_name_454,79.41,6,"Beauty, Health",supplier_227@gmail.com
+455,product_name_455,73.74,5,"Food, Grocery",supplier_227@gmail.com
+456,product_name_456,35.23,7,"Toy, Kids",supplier_228@gmail.com
+457,product_name_457,47.56,7,Outdoors,supplier_228@gmail.com
+458,product_name_458,64.64,8,Smart Home,supplier_229@gmail.com
+459,product_name_459,43.08,8,Pet Supplies,supplier_229@gmail.com
+460,product_name_460,41.7,3,Computers,supplier_230@gmail.com
+461,product_name_461,11.92,5,Sports,supplier_230@gmail.com
+462,product_name_462,13.77,8,"Home, Garden",supplier_231@gmail.com
+463,product_name_463,22.75,6,"Toy, Kids",supplier_231@gmail.com
+464,product_name_464,97.58,5,Fashion,supplier_232@gmail.com
+465,product_name_465,86.79,4,"Toy, Kids",supplier_232@gmail.com
+466,product_name_466,74.06,5,Outdoors,supplier_233@gmail.com
+467,product_name_467,94.38,1,Computers,supplier_233@gmail.com
+468,product_name_468,41.32,1,Automotive,supplier_234@gmail.com
+469,product_name_469,58.66,6,"Beauty, Health",supplier_234@gmail.com
+470,product_name_470,68.56,1,Entertainments,supplier_235@gmail.com
+471,product_name_471,58.51,8,Computers,supplier_235@gmail.com
+472,product_name_472,14.09,8,Books,supplier_236@gmail.com
+473,product_name_473,85.0,5,Sports,supplier_236@gmail.com
+474,product_name_474,62.54,6,Electronics,supplier_237@gmail.com
+475,product_name_475,83.76,5,Electronics,supplier_237@gmail.com
+476,product_name_476,24.38,9,Books,supplier_238@gmail.com
+477,product_name_477,78.5,1,Electronics,supplier_238@gmail.com
+478,product_name_478,30.4,7,Automotive,supplier_239@gmail.com
+479,product_name_479,70.49,8,Pet Supplies,supplier_239@gmail.com
+480,product_name_480,17.36,3,Sports,supplier_240@gmail.com
+481,product_name_481,57.54,4,"Food, Grocery",supplier_240@gmail.com
+482,product_name_482,21.18,8,Sports,supplier_241@gmail.com
+483,product_name_483,10.35,8,Books,supplier_241@gmail.com
+484,product_name_484,61.33,8,Smart Home,supplier_242@gmail.com
+485,product_name_485,16.03,7,Computers,supplier_242@gmail.com
+486,product_name_486,13.67,4,Electronics,supplier_243@gmail.com
+487,product_name_487,40.66,6,Automotive,supplier_243@gmail.com
+488,product_name_488,25.99,4,Fashion,supplier_244@gmail.com
+489,product_name_489,25.76,9,"Food, Grocery",supplier_244@gmail.com
+490,product_name_490,46.68,4,Fashion,supplier_245@gmail.com
+491,product_name_491,73.49,1,Sports,supplier_245@gmail.com
+492,product_name_492,58.45,2,Pet Supplies,supplier_246@gmail.com
+493,product_name_493,21.91,4,Entertainments,supplier_246@gmail.com
+494,product_name_494,70.9,6,Sports,supplier_247@gmail.com
+495,product_name_495,66.81,7,Electronics,supplier_247@gmail.com
+496,product_name_496,36.92,3,Pet Supplies,supplier_248@gmail.com
+497,product_name_497,76.8,9,Outdoors,supplier_248@gmail.com
+498,product_name_498,21.08,8,"Beauty, Health",supplier_249@gmail.com
+499,product_name_499,13.78,2,Automotive,supplier_249@gmail.com
+500,product_name_500,11.31,7,Outdoors,supplier_250@gmail.com
+501,product_name_501,13.46,9,Fashion,supplier_250@gmail.com
+502,product_name_502,90.05,7,Entertainments,supplier_251@gmail.com
+503,product_name_503,17.76,8,Books,supplier_251@gmail.com
+504,product_name_504,33.9,1,Outdoors,supplier_252@gmail.com
+505,product_name_505,64.07,3,Fashion,supplier_252@gmail.com
+506,product_name_506,26.86,8,Electronics,supplier_253@gmail.com
+507,product_name_507,46.36,6,Outdoors,supplier_253@gmail.com
+508,product_name_508,89.84,7,Sports,supplier_254@gmail.com
+509,product_name_509,55.41,9,Fashion,supplier_254@gmail.com
+510,product_name_510,35.67,5,Outdoors,supplier_255@gmail.com
+511,product_name_511,10.34,5,Smart Home,supplier_255@gmail.com
+512,product_name_512,82.15,7,Automotive,supplier_256@gmail.com
+513,product_name_513,74.88,9,Pet Supplies,supplier_256@gmail.com
+514,product_name_514,27.01,6,"Home, Garden",supplier_257@gmail.com
+515,product_name_515,35.4,1,"Beauty, Health",supplier_257@gmail.com
+516,product_name_516,70.88,4,Fashion,supplier_258@gmail.com
+517,product_name_517,92.03,4,Pet Supplies,supplier_258@gmail.com
+518,product_name_518,93.5,7,Computers,supplier_259@gmail.com
+519,product_name_519,58.19,5,Books,supplier_259@gmail.com
+520,product_name_520,34.64,6,Computers,supplier_260@gmail.com
+521,product_name_521,32.2,5,Computers,supplier_260@gmail.com
+522,product_name_522,86.13,7,"Home, Garden",supplier_261@gmail.com
+523,product_name_523,68.03,1,Smart Home,supplier_261@gmail.com
+524,product_name_524,65.8,2,Automotive,supplier_262@gmail.com
+525,product_name_525,39.72,2,Sports,supplier_262@gmail.com
+526,product_name_526,34.78,1,"Toy, Kids",supplier_263@gmail.com
+527,product_name_527,57.7,5,"Toy, Kids",supplier_263@gmail.com
+528,product_name_528,50.0,7,Pet Supplies,supplier_264@gmail.com
+529,product_name_529,15.07,4,Electronics,supplier_264@gmail.com
+530,product_name_530,73.42,9,"Beauty, Health",supplier_265@gmail.com
+531,product_name_531,99.99,3,Fashion,supplier_265@gmail.com
+532,product_name_532,57.41,5,Books,supplier_266@gmail.com
+533,product_name_533,78.6,8,Pet Supplies,supplier_266@gmail.com
+534,product_name_534,25.61,1,Books,supplier_267@gmail.com
+535,product_name_535,70.06,4,Electronics,supplier_267@gmail.com
+536,product_name_536,30.44,6,Smart Home,supplier_268@gmail.com
+537,product_name_537,38.78,3,Outdoors,supplier_268@gmail.com
+538,product_name_538,38.13,6,"Beauty, Health",supplier_269@gmail.com
+539,product_name_539,59.25,9,Books,supplier_269@gmail.com
+540,product_name_540,87.62,8,"Food, Grocery",supplier_270@gmail.com
+541,product_name_541,20.78,4,Computers,supplier_270@gmail.com
+542,product_name_542,17.89,4,Sports,supplier_271@gmail.com
+543,product_name_543,13.62,7,Pet Supplies,supplier_271@gmail.com
+544,product_name_544,62.34,3,Entertainments,supplier_272@gmail.com
+545,product_name_545,82.14,5,"Food, Grocery",supplier_272@gmail.com
+546,product_name_546,55.59,3,Sports,supplier_273@gmail.com
+547,product_name_547,52.76,4,Pet Supplies,supplier_273@gmail.com
+548,product_name_548,80.52,8,"Toy, Kids",supplier_274@gmail.com
+549,product_name_549,54.5,8,"Beauty, Health",supplier_274@gmail.com
+550,product_name_550,42.58,4,Books,supplier_275@gmail.com
+551,product_name_551,24.31,9,Pet Supplies,supplier_275@gmail.com
+552,product_name_552,99.67,4,Smart Home,supplier_276@gmail.com
+553,product_name_553,65.76,4,Entertainments,supplier_276@gmail.com
+554,product_name_554,34.32,8,Computers,supplier_277@gmail.com
+555,product_name_555,25.88,7,Entertainments,supplier_277@gmail.com
+556,product_name_556,58.53,2,Entertainments,supplier_278@gmail.com
+557,product_name_557,58.02,8,Fashion,supplier_278@gmail.com
+558,product_name_558,48.55,5,"Beauty, Health",supplier_279@gmail.com
+559,product_name_559,33.1,7,Electronics,supplier_279@gmail.com
+560,product_name_560,33.7,9,"Beauty, Health",supplier_280@gmail.com
+561,product_name_561,40.33,5,"Food, Grocery",supplier_280@gmail.com
+562,product_name_562,16.79,9,Automotive,supplier_281@gmail.com
+563,product_name_563,24.77,4,Sports,supplier_281@gmail.com
+564,product_name_564,70.98,1,Fashion,supplier_282@gmail.com
+565,product_name_565,38.15,2,"Beauty, Health",supplier_282@gmail.com
+566,product_name_566,46.92,7,"Beauty, Health",supplier_283@gmail.com
+567,product_name_567,77.06,8,Outdoors,supplier_283@gmail.com
+568,product_name_568,67.88,8,"Food, Grocery",supplier_284@gmail.com
+569,product_name_569,76.51,5,"Home, Garden",supplier_284@gmail.com
+570,product_name_570,75.36,9,Electronics,supplier_285@gmail.com
+571,product_name_571,22.68,2,"Home, Garden",supplier_285@gmail.com
+572,product_name_572,37.81,6,Outdoors,supplier_286@gmail.com
+573,product_name_573,91.21,3,Books,supplier_286@gmail.com
+574,product_name_574,14.79,4,Outdoors,supplier_287@gmail.com
+575,product_name_575,18.83,3,Books,supplier_287@gmail.com
+576,product_name_576,76.1,1,Entertainments,supplier_288@gmail.com
+577,product_name_577,88.03,7,Smart Home,supplier_288@gmail.com
+578,product_name_578,74.17,5,"Toy, Kids",supplier_289@gmail.com
+579,product_name_579,85.79,7,"Toy, Kids",supplier_289@gmail.com
+580,product_name_580,12.33,6,Pet Supplies,supplier_290@gmail.com
+581,product_name_581,50.3,2,Books,supplier_290@gmail.com
+582,product_name_582,54.23,3,Automotive,supplier_291@gmail.com
+583,product_name_583,87.64,4,"Food, Grocery",supplier_291@gmail.com
+584,product_name_584,58.05,5,"Food, Grocery",supplier_292@gmail.com
+585,product_name_585,70.67,1,Computers,supplier_292@gmail.com
+586,product_name_586,79.86,6,Computers,supplier_293@gmail.com
+587,product_name_587,81.28,4,"Home, Garden",supplier_293@gmail.com
+588,product_name_588,88.71,4,Electronics,supplier_294@gmail.com
+589,product_name_589,96.88,7,Sports,supplier_294@gmail.com
+590,product_name_590,65.62,6,Automotive,supplier_295@gmail.com
+591,product_name_591,80.44,3,"Food, Grocery",supplier_295@gmail.com
+592,product_name_592,11.74,8,Automotive,supplier_296@gmail.com
+593,product_name_593,52.42,3,"Beauty, Health",supplier_296@gmail.com
+594,product_name_594,97.65,5,"Food, Grocery",supplier_297@gmail.com
+595,product_name_595,78.18,7,"Home, Garden",supplier_297@gmail.com
+596,product_name_596,84.07,2,"Home, Garden",supplier_298@gmail.com
+597,product_name_597,39.39,6,Entertainments,supplier_298@gmail.com
+598,product_name_598,90.93,3,Sports,supplier_299@gmail.com
+599,product_name_599,17.34,7,Sports,supplier_299@gmail.com
+600,product_name_600,95.77,3,"Beauty, Health",supplier_300@gmail.com
+601,product_name_601,90.89,6,Outdoors,supplier_300@gmail.com
+602,product_name_602,59.52,3,"Home, Garden",supplier_301@gmail.com
+603,product_name_603,96.94,4,Outdoors,supplier_301@gmail.com
+604,product_name_604,40.81,1,Entertainments,supplier_302@gmail.com
+605,product_name_605,46.0,6,"Beauty, Health",supplier_302@gmail.com
+606,product_name_606,60.86,8,Outdoors,supplier_303@gmail.com
+607,product_name_607,10.34,4,Electronics,supplier_303@gmail.com
+608,product_name_608,80.78,6,Books,supplier_304@gmail.com
+609,product_name_609,60.92,5,"Toy, Kids",supplier_304@gmail.com
+610,product_name_610,25.87,7,"Food, Grocery",supplier_305@gmail.com
+611,product_name_611,94.12,1,"Food, Grocery",supplier_305@gmail.com
+612,product_name_612,34.04,6,"Home, Garden",supplier_306@gmail.com
+613,product_name_613,76.58,3,Automotive,supplier_306@gmail.com
+614,product_name_614,48.2,3,"Toy, Kids",supplier_307@gmail.com
+615,product_name_615,47.25,2,"Beauty, Health",supplier_307@gmail.com
+616,product_name_616,92.72,7,"Food, Grocery",supplier_308@gmail.com
+617,product_name_617,29.87,6,Sports,supplier_308@gmail.com
+618,product_name_618,23.95,6,Books,supplier_309@gmail.com
+619,product_name_619,34.35,3,"Beauty, Health",supplier_309@gmail.com
+620,product_name_620,99.68,9,"Food, Grocery",supplier_310@gmail.com
+621,product_name_621,61.16,1,Sports,supplier_310@gmail.com
+622,product_name_622,11.05,6,Electronics,supplier_311@gmail.com
+623,product_name_623,79.53,3,Books,supplier_311@gmail.com
+624,product_name_624,98.12,7,Fashion,supplier_312@gmail.com
+625,product_name_625,63.59,2,"Food, Grocery",supplier_312@gmail.com
+626,product_name_626,53.03,2,Outdoors,supplier_313@gmail.com
+627,product_name_627,81.18,8,Automotive,supplier_313@gmail.com
+628,product_name_628,59.78,4,Electronics,supplier_314@gmail.com
+629,product_name_629,72.93,9,Sports,supplier_314@gmail.com
+630,product_name_630,37.8,4,Outdoors,supplier_315@gmail.com
+631,product_name_631,49.58,6,"Beauty, Health",supplier_315@gmail.com
+632,product_name_632,16.58,4,Pet Supplies,supplier_316@gmail.com
+633,product_name_633,49.72,4,Computers,supplier_316@gmail.com
+634,product_name_634,34.13,6,"Toy, Kids",supplier_317@gmail.com
+635,product_name_635,66.59,6,Pet Supplies,supplier_317@gmail.com
+636,product_name_636,48.9,8,"Home, Garden",supplier_318@gmail.com
+637,product_name_637,24.96,5,Sports,supplier_318@gmail.com
+638,product_name_638,92.05,4,Outdoors,supplier_319@gmail.com
+639,product_name_639,72.56,5,Outdoors,supplier_319@gmail.com
+640,product_name_640,29.75,7,"Beauty, Health",supplier_320@gmail.com
+641,product_name_641,44.48,3,Outdoors,supplier_320@gmail.com
+642,product_name_642,67.19,5,"Food, Grocery",supplier_321@gmail.com
+643,product_name_643,57.93,8,Entertainments,supplier_321@gmail.com
+644,product_name_644,96.72,9,Fashion,supplier_322@gmail.com
+645,product_name_645,65.56,9,Entertainments,supplier_322@gmail.com
+646,product_name_646,35.37,1,"Home, Garden",supplier_323@gmail.com
+647,product_name_647,85.15,6,Computers,supplier_323@gmail.com
+648,product_name_648,25.95,1,Sports,supplier_324@gmail.com
+649,product_name_649,33.02,8,Sports,supplier_324@gmail.com
+650,product_name_650,99.36,2,Entertainments,supplier_325@gmail.com
+651,product_name_651,54.33,2,Computers,supplier_325@gmail.com
+652,product_name_652,97.48,6,Sports,supplier_326@gmail.com
+653,product_name_653,37.73,6,Automotive,supplier_326@gmail.com
+654,product_name_654,14.58,6,"Food, Grocery",supplier_327@gmail.com
+655,product_name_655,97.0,8,Automotive,supplier_327@gmail.com
+656,product_name_656,97.64,7,"Home, Garden",supplier_328@gmail.com
+657,product_name_657,39.83,8,"Beauty, Health",supplier_328@gmail.com
+658,product_name_658,29.03,1,"Toy, Kids",supplier_329@gmail.com
+659,product_name_659,17.6,8,Automotive,supplier_329@gmail.com
+660,product_name_660,17.82,5,"Toy, Kids",supplier_330@gmail.com
+661,product_name_661,32.54,2,Computers,supplier_330@gmail.com
+662,product_name_662,16.62,9,"Home, Garden",supplier_331@gmail.com
+663,product_name_663,50.66,2,"Food, Grocery",supplier_331@gmail.com
+664,product_name_664,13.72,3,"Food, Grocery",supplier_332@gmail.com
+665,product_name_665,79.32,2,Fashion,supplier_332@gmail.com
+666,product_name_666,81.07,5,Entertainments,supplier_333@gmail.com
+667,product_name_667,53.53,2,Pet Supplies,supplier_333@gmail.com
+668,product_name_668,24.01,5,"Home, Garden",supplier_334@gmail.com
+669,product_name_669,11.42,8,Fashion,supplier_334@gmail.com
+670,product_name_670,94.06,4,Computers,supplier_335@gmail.com
+671,product_name_671,96.0,1,"Toy, Kids",supplier_335@gmail.com
+672,product_name_672,78.0,1,"Food, Grocery",supplier_336@gmail.com
+673,product_name_673,18.21,6,"Food, Grocery",supplier_336@gmail.com
+674,product_name_674,18.66,2,Pet Supplies,supplier_337@gmail.com
+675,product_name_675,48.07,7,Outdoors,supplier_337@gmail.com
+676,product_name_676,44.93,6,Fashion,supplier_338@gmail.com
+677,product_name_677,90.9,8,Outdoors,supplier_338@gmail.com
+678,product_name_678,33.05,8,Sports,supplier_339@gmail.com
+679,product_name_679,76.87,3,Computers,supplier_339@gmail.com
+680,product_name_680,90.25,3,Outdoors,supplier_340@gmail.com
+681,product_name_681,80.86,4,Automotive,supplier_340@gmail.com
+682,product_name_682,87.09,1,Entertainments,supplier_341@gmail.com
+683,product_name_683,20.26,6,"Beauty, Health",supplier_341@gmail.com
+684,product_name_684,86.9,8,Sports,supplier_342@gmail.com
+685,product_name_685,64.31,5,Entertainments,supplier_342@gmail.com
+686,product_name_686,74.59,2,"Home, Garden",supplier_343@gmail.com
+687,product_name_687,95.85,7,Books,supplier_343@gmail.com
+688,product_name_688,14.27,9,"Beauty, Health",supplier_344@gmail.com
+689,product_name_689,86.99,8,Sports,supplier_344@gmail.com
+690,product_name_690,32.36,5,Computers,supplier_345@gmail.com
+691,product_name_691,51.65,3,Sports,supplier_345@gmail.com
+692,product_name_692,10.46,9,Fashion,supplier_346@gmail.com
+693,product_name_693,54.17,3,Electronics,supplier_346@gmail.com
+694,product_name_694,79.39,5,Fashion,supplier_347@gmail.com
+695,product_name_695,62.71,3,Sports,supplier_347@gmail.com
+696,product_name_696,52.68,6,"Beauty, Health",supplier_348@gmail.com
+697,product_name_697,16.11,4,Sports,supplier_348@gmail.com
+698,product_name_698,34.43,9,"Toy, Kids",supplier_349@gmail.com
+699,product_name_699,48.97,4,Fashion,supplier_349@gmail.com
+700,product_name_700,96.56,4,Automotive,supplier_350@gmail.com
+701,product_name_701,85.23,1,Automotive,supplier_350@gmail.com
+702,product_name_702,33.85,9,Outdoors,supplier_351@gmail.com
+703,product_name_703,38.26,8,Computers,supplier_351@gmail.com
+704,product_name_704,20.31,5,"Beauty, Health",supplier_352@gmail.com
+705,product_name_705,71.34,4,Entertainments,supplier_352@gmail.com
+706,product_name_706,42.75,7,Entertainments,supplier_353@gmail.com
+707,product_name_707,83.57,3,Sports,supplier_353@gmail.com
+708,product_name_708,87.0,9,Entertainments,supplier_354@gmail.com
+709,product_name_709,61.0,1,Books,supplier_354@gmail.com
+710,product_name_710,10.44,2,Automotive,supplier_355@gmail.com
+711,product_name_711,58.78,2,Electronics,supplier_355@gmail.com
+712,product_name_712,57.92,6,"Food, Grocery",supplier_356@gmail.com
+713,product_name_713,70.48,6,Outdoors,supplier_356@gmail.com
+714,product_name_714,90.29,9,"Home, Garden",supplier_357@gmail.com
+715,product_name_715,97.06,9,"Beauty, Health",supplier_357@gmail.com
+716,product_name_716,35.65,9,Outdoors,supplier_358@gmail.com
+717,product_name_717,22.39,1,Electronics,supplier_358@gmail.com
+718,product_name_718,21.45,2,"Toy, Kids",supplier_359@gmail.com
+719,product_name_719,45.31,8,Automotive,supplier_359@gmail.com
+720,product_name_720,86.84,2,"Food, Grocery",supplier_360@gmail.com
+721,product_name_721,14.6,1,Automotive,supplier_360@gmail.com
+722,product_name_722,78.65,9,Computers,supplier_361@gmail.com
+723,product_name_723,37.52,4,Outdoors,supplier_361@gmail.com
+724,product_name_724,39.17,3,"Beauty, Health",supplier_362@gmail.com
+725,product_name_725,86.3,9,Entertainments,supplier_362@gmail.com
+726,product_name_726,50.45,7,Automotive,supplier_363@gmail.com
+727,product_name_727,72.28,4,Outdoors,supplier_363@gmail.com
+728,product_name_728,26.52,5,Pet Supplies,supplier_364@gmail.com
+729,product_name_729,93.05,2,Sports,supplier_364@gmail.com
+730,product_name_730,61.49,1,Smart Home,supplier_365@gmail.com
+731,product_name_731,17.88,1,Computers,supplier_365@gmail.com
+732,product_name_732,87.01,6,Electronics,supplier_366@gmail.com
+733,product_name_733,31.2,8,Fashion,supplier_366@gmail.com
+734,product_name_734,60.86,5,Sports,supplier_367@gmail.com
+735,product_name_735,56.95,5,Entertainments,supplier_367@gmail.com
+736,product_name_736,40.09,8,Automotive,supplier_368@gmail.com
+737,product_name_737,99.9,2,Books,supplier_368@gmail.com
+738,product_name_738,50.63,1,"Home, Garden",supplier_369@gmail.com
+739,product_name_739,33.58,3,"Beauty, Health",supplier_369@gmail.com
+740,product_name_740,35.33,4,"Beauty, Health",supplier_370@gmail.com
+741,product_name_741,12.64,2,"Home, Garden",supplier_370@gmail.com
+742,product_name_742,87.83,1,"Beauty, Health",supplier_371@gmail.com
+743,product_name_743,71.86,7,Books,supplier_371@gmail.com
+744,product_name_744,85.2,7,Smart Home,supplier_372@gmail.com
+745,product_name_745,57.02,7,Sports,supplier_372@gmail.com
+746,product_name_746,17.31,9,Outdoors,supplier_373@gmail.com
+747,product_name_747,19.98,9,"Home, Garden",supplier_373@gmail.com
+748,product_name_748,84.92,4,"Toy, Kids",supplier_374@gmail.com
+749,product_name_749,77.53,5,Pet Supplies,supplier_374@gmail.com
+750,product_name_750,52.77,4,Entertainments,supplier_375@gmail.com
+751,product_name_751,75.62,4,Sports,supplier_375@gmail.com
+752,product_name_752,88.73,7,Entertainments,supplier_376@gmail.com
+753,product_name_753,27.71,9,Pet Supplies,supplier_376@gmail.com
+754,product_name_754,25.53,4,Computers,supplier_377@gmail.com
+755,product_name_755,92.39,3,"Toy, Kids",supplier_377@gmail.com
+756,product_name_756,59.53,2,"Beauty, Health",supplier_378@gmail.com
+757,product_name_757,23.02,8,Outdoors,supplier_378@gmail.com
+758,product_name_758,35.01,2,Fashion,supplier_379@gmail.com
+759,product_name_759,51.37,9,"Toy, Kids",supplier_379@gmail.com
+760,product_name_760,52.08,8,"Food, Grocery",supplier_380@gmail.com
+761,product_name_761,35.32,1,"Home, Garden",supplier_380@gmail.com
+762,product_name_762,85.8,8,Outdoors,supplier_381@gmail.com
+763,product_name_763,50.92,5,"Home, Garden",supplier_381@gmail.com
+764,product_name_764,32.61,5,"Toy, Kids",supplier_382@gmail.com
+765,product_name_765,27.89,5,Outdoors,supplier_382@gmail.com
+766,product_name_766,96.74,9,Pet Supplies,supplier_383@gmail.com
+767,product_name_767,78.29,3,Pet Supplies,supplier_383@gmail.com
+768,product_name_768,63.09,3,"Toy, Kids",supplier_384@gmail.com
+769,product_name_769,74.95,6,Electronics,supplier_384@gmail.com
+770,product_name_770,82.61,7,Smart Home,supplier_385@gmail.com
+771,product_name_771,37.3,7,Outdoors,supplier_385@gmail.com
+772,product_name_772,29.81,3,Entertainments,supplier_386@gmail.com
+773,product_name_773,60.75,8,Electronics,supplier_386@gmail.com
+774,product_name_774,18.35,7,"Food, Grocery",supplier_387@gmail.com
+775,product_name_775,80.63,9,Automotive,supplier_387@gmail.com
+776,product_name_776,50.02,5,Smart Home,supplier_388@gmail.com
+777,product_name_777,73.57,3,Pet Supplies,supplier_388@gmail.com
+778,product_name_778,46.74,1,Computers,supplier_389@gmail.com
+779,product_name_779,48.18,2,Sports,supplier_389@gmail.com
+780,product_name_780,71.07,5,Computers,supplier_390@gmail.com
+781,product_name_781,49.34,2,"Food, Grocery",supplier_390@gmail.com
+782,product_name_782,21.29,4,Outdoors,supplier_391@gmail.com
+783,product_name_783,71.87,6,Sports,supplier_391@gmail.com
+784,product_name_784,36.07,9,Entertainments,supplier_392@gmail.com
+785,product_name_785,66.53,5,Sports,supplier_392@gmail.com
+786,product_name_786,61.01,6,"Food, Grocery",supplier_393@gmail.com
+787,product_name_787,15.52,6,Books,supplier_393@gmail.com
+788,product_name_788,39.33,7,"Food, Grocery",supplier_394@gmail.com
+789,product_name_789,98.12,2,Entertainments,supplier_394@gmail.com
+790,product_name_790,87.79,6,"Beauty, Health",supplier_395@gmail.com
+791,product_name_791,98.27,4,Smart Home,supplier_395@gmail.com
+792,product_name_792,95.47,2,Pet Supplies,supplier_396@gmail.com
+793,product_name_793,61.72,9,"Home, Garden",supplier_396@gmail.com
+794,product_name_794,53.79,8,Sports,supplier_397@gmail.com
+795,product_name_795,67.84,9,Books,supplier_397@gmail.com
+796,product_name_796,54.78,9,Pet Supplies,supplier_398@gmail.com
+797,product_name_797,97.1,5,Entertainments,supplier_398@gmail.com
+798,product_name_798,26.38,7,Books,supplier_399@gmail.com
+799,product_name_799,74.37,3,Sports,supplier_399@gmail.com
+800,product_name_800,12.58,8,"Food, Grocery",supplier_400@gmail.com
+801,product_name_801,70.94,8,Smart Home,supplier_400@gmail.com
+802,product_name_802,76.31,5,Computers,supplier_401@gmail.com
+803,product_name_803,52.1,6,"Food, Grocery",supplier_401@gmail.com
+804,product_name_804,15.97,3,Computers,supplier_402@gmail.com
+805,product_name_805,21.53,6,Electronics,supplier_402@gmail.com
+806,product_name_806,34.66,7,Electronics,supplier_403@gmail.com
+807,product_name_807,84.67,5,Fashion,supplier_403@gmail.com
+808,product_name_808,45.8,4,Automotive,supplier_404@gmail.com
+809,product_name_809,55.39,9,"Home, Garden",supplier_404@gmail.com
+810,product_name_810,39.05,1,Outdoors,supplier_405@gmail.com
+811,product_name_811,74.11,2,Automotive,supplier_405@gmail.com
+812,product_name_812,26.04,8,Automotive,supplier_406@gmail.com
+813,product_name_813,64.1,6,"Beauty, Health",supplier_406@gmail.com
+814,product_name_814,40.49,2,"Toy, Kids",supplier_407@gmail.com
+815,product_name_815,97.23,5,Sports,supplier_407@gmail.com
+816,product_name_816,99.65,3,"Beauty, Health",supplier_408@gmail.com
+817,product_name_817,46.4,3,Books,supplier_408@gmail.com
+818,product_name_818,99.05,3,"Beauty, Health",supplier_409@gmail.com
+819,product_name_819,14.03,1,Pet Supplies,supplier_409@gmail.com
+820,product_name_820,58.3,4,Computers,supplier_410@gmail.com
+821,product_name_821,34.03,2,"Toy, Kids",supplier_410@gmail.com
+822,product_name_822,69.82,9,Automotive,supplier_411@gmail.com
+823,product_name_823,31.58,2,"Food, Grocery",supplier_411@gmail.com
+824,product_name_824,19.45,7,Pet Supplies,supplier_412@gmail.com
+825,product_name_825,75.24,4,Electronics,supplier_412@gmail.com
+826,product_name_826,70.09,9,Electronics,supplier_413@gmail.com
+827,product_name_827,24.77,3,Entertainments,supplier_413@gmail.com
+828,product_name_828,22.82,1,Smart Home,supplier_414@gmail.com
+829,product_name_829,83.82,3,Smart Home,supplier_414@gmail.com
+830,product_name_830,30.86,3,Fashion,supplier_415@gmail.com
+831,product_name_831,68.05,2,Outdoors,supplier_415@gmail.com
+832,product_name_832,48.79,9,Computers,supplier_416@gmail.com
+833,product_name_833,90.59,4,Entertainments,supplier_416@gmail.com
+834,product_name_834,92.45,6,Books,supplier_417@gmail.com
+835,product_name_835,82.78,2,Computers,supplier_417@gmail.com
+836,product_name_836,62.26,4,Outdoors,supplier_418@gmail.com
+837,product_name_837,68.43,7,Smart Home,supplier_418@gmail.com
+838,product_name_838,46.52,6,"Home, Garden",supplier_419@gmail.com
+839,product_name_839,47.29,2,Computers,supplier_419@gmail.com
+840,product_name_840,65.86,7,"Food, Grocery",supplier_420@gmail.com
+841,product_name_841,43.05,9,Automotive,supplier_420@gmail.com
+842,product_name_842,49.65,8,"Home, Garden",supplier_421@gmail.com
+843,product_name_843,79.06,6,Entertainments,supplier_421@gmail.com
+844,product_name_844,57.24,1,Pet Supplies,supplier_422@gmail.com
+845,product_name_845,85.81,1,Electronics,supplier_422@gmail.com
+846,product_name_846,51.69,4,Computers,supplier_423@gmail.com
+847,product_name_847,91.63,8,"Beauty, Health",supplier_423@gmail.com
+848,product_name_848,11.69,1,"Beauty, Health",supplier_424@gmail.com
+849,product_name_849,56.16,7,Smart Home,supplier_424@gmail.com
+850,product_name_850,62.15,4,Pet Supplies,supplier_425@gmail.com
+851,product_name_851,51.91,8,"Beauty, Health",supplier_425@gmail.com
+852,product_name_852,77.14,6,Automotive,supplier_426@gmail.com
+853,product_name_853,80.96,1,Automotive,supplier_426@gmail.com
+854,product_name_854,69.13,4,Sports,supplier_427@gmail.com
+855,product_name_855,82.42,7,Outdoors,supplier_427@gmail.com
+856,product_name_856,14.75,5,Pet Supplies,supplier_428@gmail.com
+857,product_name_857,75.59,2,Sports,supplier_428@gmail.com
+858,product_name_858,13.58,3,Electronics,supplier_429@gmail.com
+859,product_name_859,25.59,7,Smart Home,supplier_429@gmail.com
+860,product_name_860,97.98,8,Automotive,supplier_430@gmail.com
+861,product_name_861,90.87,7,Entertainments,supplier_430@gmail.com
+862,product_name_862,24.44,7,Outdoors,supplier_431@gmail.com
+863,product_name_863,88.55,5,Entertainments,supplier_431@gmail.com
+864,product_name_864,97.1,1,Automotive,supplier_432@gmail.com
+865,product_name_865,84.41,8,"Home, Garden",supplier_432@gmail.com
+866,product_name_866,40.68,7,Smart Home,supplier_433@gmail.com
+867,product_name_867,24.66,4,Smart Home,supplier_433@gmail.com
+868,product_name_868,35.97,6,"Food, Grocery",supplier_434@gmail.com
+869,product_name_869,78.31,7,Computers,supplier_434@gmail.com
+870,product_name_870,27.51,8,"Toy, Kids",supplier_435@gmail.com
+871,product_name_871,31.88,8,Smart Home,supplier_435@gmail.com
+872,product_name_872,13.04,3,Electronics,supplier_436@gmail.com
+873,product_name_873,49.57,1,Sports,supplier_436@gmail.com
+874,product_name_874,98.33,3,Computers,supplier_437@gmail.com
+875,product_name_875,65.84,7,Outdoors,supplier_437@gmail.com
+876,product_name_876,50.13,7,Automotive,supplier_438@gmail.com
+877,product_name_877,82.23,5,"Home, Garden",supplier_438@gmail.com
+878,product_name_878,19.03,3,Electronics,supplier_439@gmail.com
+879,product_name_879,98.06,2,Sports,supplier_439@gmail.com
+880,product_name_880,90.2,6,"Beauty, Health",supplier_440@gmail.com
+881,product_name_881,93.59,4,Outdoors,supplier_440@gmail.com
+882,product_name_882,91.25,6,Books,supplier_441@gmail.com
+883,product_name_883,45.12,5,Electronics,supplier_441@gmail.com
+884,product_name_884,35.6,5,Entertainments,supplier_442@gmail.com
+885,product_name_885,30.95,3,Electronics,supplier_442@gmail.com
+886,product_name_886,43.87,6,Pet Supplies,supplier_443@gmail.com
+887,product_name_887,11.43,4,Outdoors,supplier_443@gmail.com
+888,product_name_888,24.9,4,Electronics,supplier_444@gmail.com
+889,product_name_889,91.65,4,Pet Supplies,supplier_444@gmail.com
+890,product_name_890,47.14,3,Electronics,supplier_445@gmail.com
+891,product_name_891,47.94,8,"Beauty, Health",supplier_445@gmail.com
+892,product_name_892,38.26,1,Pet Supplies,supplier_446@gmail.com
+893,product_name_893,96.99,8,Pet Supplies,supplier_446@gmail.com
+894,product_name_894,22.3,9,Entertainments,supplier_447@gmail.com
+895,product_name_895,15.94,9,"Home, Garden",supplier_447@gmail.com
+896,product_name_896,28.59,7,Outdoors,supplier_448@gmail.com
+897,product_name_897,98.62,1,"Food, Grocery",supplier_448@gmail.com
+898,product_name_898,44.15,7,"Home, Garden",supplier_449@gmail.com
+899,product_name_899,10.14,1,Fashion,supplier_449@gmail.com
+900,product_name_900,88.22,8,"Beauty, Health",supplier_450@gmail.com
+901,product_name_901,91.43,1,Automotive,supplier_450@gmail.com
+902,product_name_902,19.79,3,Automotive,supplier_451@gmail.com
+903,product_name_903,91.31,1,Books,supplier_451@gmail.com
+904,product_name_904,65.2,8,Computers,supplier_452@gmail.com
+905,product_name_905,43.24,5,Outdoors,supplier_452@gmail.com
+906,product_name_906,83.84,1,Books,supplier_453@gmail.com
+907,product_name_907,61.57,1,"Toy, Kids",supplier_453@gmail.com
+908,product_name_908,32.45,8,"Home, Garden",supplier_454@gmail.com
+909,product_name_909,62.74,1,Electronics,supplier_454@gmail.com
+910,product_name_910,79.54,7,Entertainments,supplier_455@gmail.com
+911,product_name_911,67.45,4,Books,supplier_455@gmail.com
+912,product_name_912,68.82,6,Computers,supplier_456@gmail.com
+913,product_name_913,40.61,4,Computers,supplier_456@gmail.com
+914,product_name_914,73.46,3,Computers,supplier_457@gmail.com
+915,product_name_915,63.91,6,Computers,supplier_457@gmail.com
+916,product_name_916,37.52,8,"Food, Grocery",supplier_458@gmail.com
+917,product_name_917,77.96,7,Outdoors,supplier_458@gmail.com
+918,product_name_918,40.15,5,Electronics,supplier_459@gmail.com
+919,product_name_919,71.26,1,Books,supplier_459@gmail.com
+920,product_name_920,74.67,4,Entertainments,supplier_460@gmail.com
+921,product_name_921,97.33,6,Electronics,supplier_460@gmail.com
+922,product_name_922,68.2,5,Pet Supplies,supplier_461@gmail.com
+923,product_name_923,26.53,5,Electronics,supplier_461@gmail.com
+924,product_name_924,83.95,8,Computers,supplier_462@gmail.com
+925,product_name_925,92.77,6,Computers,supplier_462@gmail.com
+926,product_name_926,27.83,5,"Toy, Kids",supplier_463@gmail.com
+927,product_name_927,40.48,5,"Home, Garden",supplier_463@gmail.com
+928,product_name_928,33.94,4,Entertainments,supplier_464@gmail.com
+929,product_name_929,48.57,1,Outdoors,supplier_464@gmail.com
+930,product_name_930,11.37,2,Smart Home,supplier_465@gmail.com
+931,product_name_931,28.79,1,Outdoors,supplier_465@gmail.com
+932,product_name_932,82.45,5,"Beauty, Health",supplier_466@gmail.com
+933,product_name_933,58.18,7,Computers,supplier_466@gmail.com
+934,product_name_934,43.71,7,"Food, Grocery",supplier_467@gmail.com
+935,product_name_935,74.63,8,Computers,supplier_467@gmail.com
+936,product_name_936,15.71,2,Automotive,supplier_468@gmail.com
+937,product_name_937,36.04,2,"Home, Garden",supplier_468@gmail.com
+938,product_name_938,55.01,2,"Food, Grocery",supplier_469@gmail.com
+939,product_name_939,56.0,6,Smart Home,supplier_469@gmail.com
+940,product_name_940,38.94,9,"Beauty, Health",supplier_470@gmail.com
+941,product_name_941,12.86,3,"Home, Garden",supplier_470@gmail.com
+942,product_name_942,41.01,1,Outdoors,supplier_471@gmail.com
+943,product_name_943,74.77,3,Sports,supplier_471@gmail.com
+944,product_name_944,14.99,1,Fashion,supplier_472@gmail.com
+945,product_name_945,67.65,5,Outdoors,supplier_472@gmail.com
+946,product_name_946,44.28,6,"Food, Grocery",supplier_473@gmail.com
+947,product_name_947,37.95,7,Electronics,supplier_473@gmail.com
+948,product_name_948,10.35,6,Outdoors,supplier_474@gmail.com
+949,product_name_949,69.74,7,Electronics,supplier_474@gmail.com
+950,product_name_950,37.65,1,Sports,supplier_475@gmail.com
+951,product_name_951,80.62,1,Computers,supplier_475@gmail.com
+952,product_name_952,68.5,6,Computers,supplier_476@gmail.com
+953,product_name_953,16.01,7,Smart Home,supplier_476@gmail.com
+954,product_name_954,84.08,1,Books,supplier_477@gmail.com
+955,product_name_955,23.99,4,Pet Supplies,supplier_477@gmail.com
+956,product_name_956,38.26,4,"Toy, Kids",supplier_478@gmail.com
+957,product_name_957,38.01,7,"Beauty, Health",supplier_478@gmail.com
+958,product_name_958,35.4,4,"Home, Garden",supplier_479@gmail.com
+959,product_name_959,13.38,8,"Toy, Kids",supplier_479@gmail.com
+960,product_name_960,20.67,2,"Beauty, Health",supplier_480@gmail.com
+961,product_name_961,92.76,1,Pet Supplies,supplier_480@gmail.com
+962,product_name_962,17.66,4,Books,supplier_481@gmail.com
+963,product_name_963,44.07,9,Entertainments,supplier_481@gmail.com
+964,product_name_964,44.32,3,Entertainments,supplier_482@gmail.com
+965,product_name_965,27.64,3,Entertainments,supplier_482@gmail.com
+966,product_name_966,75.13,7,Books,supplier_483@gmail.com
+967,product_name_967,96.08,7,"Toy, Kids",supplier_483@gmail.com
+968,product_name_968,59.17,8,"Beauty, Health",supplier_484@gmail.com
+969,product_name_969,19.67,6,Outdoors,supplier_484@gmail.com
+970,product_name_970,15.32,3,Outdoors,supplier_485@gmail.com
+971,product_name_971,54.71,7,Entertainments,supplier_485@gmail.com
+972,product_name_972,80.94,8,Smart Home,supplier_486@gmail.com
+973,product_name_973,48.73,4,"Toy, Kids",supplier_486@gmail.com
+974,product_name_974,31.62,5,Pet Supplies,supplier_487@gmail.com
+975,product_name_975,87.93,6,Sports,supplier_487@gmail.com
+976,product_name_976,16.25,5,Books,supplier_488@gmail.com
+977,product_name_977,58.44,8,"Food, Grocery",supplier_488@gmail.com
+978,product_name_978,61.9,2,Electronics,supplier_489@gmail.com
+979,product_name_979,88.2,4,Electronics,supplier_489@gmail.com
+980,product_name_980,21.47,3,Entertainments,supplier_490@gmail.com
+981,product_name_981,27.48,6,Outdoors,supplier_490@gmail.com
+982,product_name_982,15.14,1,"Home, Garden",supplier_491@gmail.com
+983,product_name_983,30.23,6,Books,supplier_491@gmail.com
+984,product_name_984,46.87,5,Pet Supplies,supplier_492@gmail.com
+985,product_name_985,60.94,8,Sports,supplier_492@gmail.com
+986,product_name_986,82.45,9,Computers,supplier_493@gmail.com
+987,product_name_987,21.35,1,Computers,supplier_493@gmail.com
+988,product_name_988,83.29,6,Pet Supplies,supplier_494@gmail.com
+989,product_name_989,16.88,2,"Home, Garden",supplier_494@gmail.com
+990,product_name_990,99.17,6,Outdoors,supplier_495@gmail.com
+991,product_name_991,47.31,4,Entertainments,supplier_495@gmail.com
+992,product_name_992,38.3,8,"Toy, Kids",supplier_496@gmail.com
+993,product_name_993,62.31,6,"Toy, Kids",supplier_496@gmail.com
+994,product_name_994,87.25,5,Pet Supplies,supplier_497@gmail.com
+995,product_name_995,50.1,3,Entertainments,supplier_497@gmail.com
+996,product_name_996,45.68,3,"Beauty, Health",supplier_498@gmail.com
+997,product_name_997,80.07,4,Automotive,supplier_498@gmail.com
+998,product_name_998,79.67,9,Smart Home,supplier_499@gmail.com
+999,product_name_999,12.01,4,"Home, Garden",supplier_499@gmail.com
